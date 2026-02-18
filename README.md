@@ -39,8 +39,6 @@ Dessa forma, o projeto busca contribuir para a compreensão de conceitos finance
 - Identificar estratégias para iniciar uma reserva financeira
 - Utilizar IA como ferramenta de apoio ao aprendizado
 
----
-
 ## Fontes Utilizadas
 
 As seguintes fontes abertas foram utilizadas no NotebookLM:
@@ -67,11 +65,10 @@ O projeto foi desenvolvido seguindo as etapas:
 
 O repositório contém:
 
-- resumo.md → Resumo estruturado do conteúdo estudado
+- resumo → Resumo estruturado do conteúdo estudado
 - glossario.md → Principais conceitos financeiros
 - prompts.md → Prompts testados e respostas obtidas
-- referencias.md → Fontes utilizadas
-- imagens → Prints do processo no NotebookLM
+- arquivos → Diversos formatos de arquivos processados no NotebookLM com o objetivo facilitar o aprendizado
 
 ##  Exemplos de Prompts Utilizados
 
@@ -88,6 +85,13 @@ O repositório contém:
 - Organização estruturada do conteúdo estudado
 - Desenvolvimento de material reutilizável para estudos futuros
 - Aplicação prática da IA no processo de aprendizagem
+
+## Conclusão e Aprendizados
+
+O desenvolvimento deste projeto evidenciou o potencial da inteligência artificial como ferramenta de apoio ao aprendizado ativo. O uso do NotebookLM permitiu não apenas organizar informações, mas também gerar perguntas relevantes que enriqueceram o processo de estudo e estimularam maior reflexão sobre o conteúdo.
+
+A ferramenta contribuiu para maior engajamento com o material, facilitando a compreensão dos conceitos, a construção do conhecimento e o desenvolvimento do pensamento crítico. Dessa forma, o projeto demonstrou como a IA pode ser utilizada de forma estratégica para promover aprendizagem mais significativa e autonomia no processo de estudo.
+
 
 ## Tecnologias Utilizadas
 
